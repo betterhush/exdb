@@ -5,6 +5,8 @@
 <h2> exercise database </h2>
 
 All exercises available at home collected in one place. API @ betterhush.github.io/api
+
+
 </div>
 
 ## 🗺️ Content
