@@ -12,4 +12,4 @@ All exercises available at home collected in one place. API @ betterhush.github.
 - [<code>🔨 Contributing</code>](#-contributing)
 
 ## 🔨 Contributing
-You are free to contribute anything that falls under the ![CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/) liscense; just open a PR!
+You are free to contribute anything that falls under the [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/) liscense; just open a PR!
